@@ -1,0 +1,9 @@
+[package]
+name = "crappybrid"
+version = "0.1.0"
+authors = ["martin croft"]
+edition = "2018"
+
+[dependencies]
+glium = "*"
+rand = "0.6.5"
